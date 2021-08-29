@@ -7,6 +7,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W00 150 L00 GitHub related
 L00 create new rep
 L01 installing virtual OS thing
 L02 Eating
