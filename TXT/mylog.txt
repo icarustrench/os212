@@ -7,7 +7,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W00 150 L00 GitHub related
-L00 create new rep
-L01 installing virtual OS thing
-L02 Eating
+ZCZC W00 50 L01 SCELE/Discord related 
+ZCZC W00 30 L03 create new rep
+ZCZC W00 20 L04 GitHub Pages related
+ZCZC W00 30 L61 Reinstall/Restore/Backup Virtual Box
+ZCZC W00 20 L06 References/Books/Documents/GSGS related
+ZCZC W00 120 L70 Studying for other courses
