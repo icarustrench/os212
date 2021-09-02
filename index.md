@@ -1,6 +1,4 @@
----
-OS 212
----
+# OS 212
 Operating Systems 2021-2 (Odd Semester
 2021/2022)
 -
