@@ -1,5 +1,5 @@
 
-#LINKS
+# LINKS
 
 1.[Git Push](stackoverflow.com/questions/20467179/git-push-rejected-non-fast-forward)<br>
 I faced some non-fast-forward problems while pushing my commit into github. This site is pretty much helpful.
