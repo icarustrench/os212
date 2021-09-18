@@ -1,8 +1,10 @@
-
-layout: "LINKS"
+---
+layout: "layout"
 permalink: /LINKS/
+---
 
-#LINKS
+# LINKS
+
 1.[Git Push](stackoverflow.com/questions/20467179/git-push-rejected-non-fast-forward)<br>
 I faced some non-fast-forward problems while pushing my commit into github. This site is pretty much helpful.
 
@@ -14,6 +16,7 @@ This site helps me to create my bash profile. It is easy to understand through t
 
 4.[Getting Started with Git](digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)<br>
 I had some trouble while doing git config. This site is good for basic git. 
+<<<<<<< HEAD:TXT/links.md
 
 5.[Operating System References](guru99.com/operating-system-tutorial.html)<br>
 This page is useful when we want to find more references while learning OS. Also, the materials are pretty complete.
@@ -35,3 +38,5 @@ Provides various materials. For more references of OS course check this out.
 
 11.[More OS Complete Course Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)<br>
 This channel also provides a full course about OS. A good source to learn more.
+=======
+>>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
