@@ -38,5 +38,12 @@ Provides various materials. For more references of OS course check this out.
 
 11.[More OS Complete Course Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)<br>
 This channel also provides a full course about OS. A good source to learn more.
+
+12.[MKDIR COMMAND](phoenixnap.com/kb/create-directory-linux-mkdir-command)<br>
+This web page provides further implementation of mkdir. It also provides more linux command.
+
+13.[FILE SYSTEM](searchstorage.techtarget.com/definiton/file-system)<br>
+It tells a summary of file system. It also provides materials such panzure controller, OS updates, etc.
+
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
