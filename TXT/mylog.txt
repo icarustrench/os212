@@ -34,3 +34,9 @@ ZCZC W03 100 L06 References/Books/Documents/GSGS related
 ZCZC W03 160 L09 Weekly Assignments
 ZCZC W03 75 L13 Assignment #3
 ZCZC W03 40 L62 Reinstall/Restore/Backup Virtual Box
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 240 L02 ZOOM meetings related
+ZCZC W04 20 L05 QUIZ
+ZCZC W04 20 L06 References/Books/Documents/GSGS related
+ZCZC W04 100 L09 Weekly Assignments
+ZCZC W04 50 L14 Assignment #4

@@ -45,5 +45,7 @@ This web page provides further implementation of mkdir. It also provides more li
 13.[FILE SYSTEM](searchstorage.techtarget.com/definiton/file-system)<br>
 It tells a summary of file system. It also provides materials such panzure controller, OS updates, etc.
 
+14.[OS MEMORY](https://www.studytonight.com/operating-system/memory-management-in-os)<br>
+It has quite same materials with the one in tutorialspoint. But this one has some new references about memory in operating system.
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
