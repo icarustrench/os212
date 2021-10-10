@@ -40,3 +40,11 @@ ZCZC W04 20 L05 QUIZ
 ZCZC W04 20 L06 References/Books/Documents/GSGS related
 ZCZC W04 100 L09 Weekly Assignments
 ZCZC W04 50 L14 Assignment #4
+ZCZC W05 200 L02 ZOOM meetings related
+ZCZC W05 50 L03 GitHub related
+ZCZC W05 100 L05 GSGS related
+ZCZC W05 40 L09 Assignment in General
+ZCZC W05 180 L15 Assignment #05
+ZCZC W05 50 L26 C-language
+ZCZC W05 50 L31 VirtualBox
+ZCZC W05 40 L82 Reading pdf OS related

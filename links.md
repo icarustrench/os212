@@ -47,5 +47,17 @@ It tells a summary of file system. It also provides materials such panzure contr
 
 14.[OS MEMORY](https://www.studytonight.com/operating-system/memory-management-in-os)<br>
 It has quite same materials with the one in tutorialspoint. But this one has some new references about memory in operating system.
+
+15.[Change a directory permission](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)<br>
+For W05 contact, students should change the mode of a directory. This link guides me from zero (not to hero).
+
+16.[Sort array with pointer](https://www.w3resource.com/c-programming-exercises/pointer/c-pointer-exercise-14.php)<br>
+For some excercises to sort an array > this link gives a visualization to sort an array with pointer as well as the code.
+
+17.[Swap values with c](https://stackoverflow.com/questions/54246511/how-to-swap-values-in-addresses-in-c)<br>
+This link is a little bit confusing but it still does the job anyway. It gives a code example on how to swap address value in C.
+
+18.[Tutorial on how to change RAM in VirtualBox](https://www.youtube.com/watch?v=XWgPMp6jfWM)<br>
+To clear any confusion, here's a full guide on how to change RAM and reboot our virtual box. It really helps me :)
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
