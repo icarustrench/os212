@@ -48,3 +48,8 @@ ZCZC W05 180 L15 Assignment #05
 ZCZC W05 50 L26 C-language
 ZCZC W05 50 L31 VirtualBox
 ZCZC W05 40 L82 Reading pdf OS related
+ZCZC W06 45 L01 SCELE/Discord related
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 50  L03 GitHub related
+ZCZC W06 70 L06 GSGS Related
+ZCZC W06 80 L09 Weekly Assignments

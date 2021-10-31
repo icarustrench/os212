@@ -16,7 +16,6 @@ This site helps me to create my bash profile. It is easy to understand through t
 
 4.[Getting Started with Git](digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)<br>
 I had some trouble while doing git config. This site is good for basic git. 
-<<<<<<< HEAD:TXT/links.md
 
 5.[Operating System References](guru99.com/operating-system-tutorial.html)<br>
 This page is useful when we want to find more references while learning OS. Also, the materials are pretty complete.
@@ -59,5 +58,17 @@ This link is a little bit confusing but it still does the job anyway. It gives a
 
 18.[Tutorial on how to change RAM in VirtualBox](https://www.youtube.com/watch?v=XWgPMp6jfWM)<br>
 To clear any confusion, here's a full guide on how to change RAM and reboot our virtual box. It really helps me :)
+
+19.[Fork()](https://man7.org/linux/man-pages/man2/fork.2.html)<br>
+This page gives brief information about fork in linux. It doesn't have that much of fork usage.
+
+20.[Communicating between parent and child](http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/example-1.html)<br>
+It gives a few example between parent and child access.
+
+21.[What is shared memory?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/what-is-shm.html)<br>
+Brief info about shared memory
+
+22.[Shared Memory Example](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+Further explanation and shared memory implementation.
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
