@@ -70,5 +70,15 @@ Brief info about shared memory
 
 22.[Shared Memory Example](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
 Further explanation and shared memory implementation.
+
+23.[More To Read Sync Tools](http://malgenomeproject.org/os2018fall/06_synchronization.pdf)<br>
+This pdf gives a the same explanation as the Silberschatz.The additional materials is this pdf gives more example from codes.
+
+24.[Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+The video gives a summarize of the process of synchronization.
+
+25.[Sync Playlist](https://www.youtube.com/watch?v=3Eaw1SSIqRg)<br>
+Gives a clear explanation about synchronization. It also has a full playlist about the course.
+
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
