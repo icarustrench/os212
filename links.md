@@ -80,5 +80,14 @@ The video gives a summarize of the process of synchronization.
 25.[Sync Playlist](https://www.youtube.com/watch?v=3Eaw1SSIqRg)<br>
 Gives a clear explanation about synchronization. It also has a full playlist about the course.
 
+26.[Memory Management Tutorial Video](https://www.youtube.com/watch?v=Ji-iHv96-uU)<br>
+The video gives a complete explanation about memory management in OS. Watch if the powerpoint explanation is hard to understand.
+
+27.[Basic IO](https://www.youtube.com/watch?v=F18RiREDkwE)<br>
+The tutorial gives a basic information about I/O in OS.
+
+28.[I/O PPT EXPLANATION BAHASA](https://www.youtube.com/watch?v=COakEmVTGvw)<br>
+It basically just explains the power point, but it helps if we missed the explanation in class.
+ 
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md

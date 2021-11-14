@@ -58,3 +58,8 @@ ZCZC W07 70 L05 GSGS related
 ZCZC W07 45 L06 References
 ZCZC W07 75 L09 Weekly Assignments
 ZCZC W07 40 L82 Reading pdf OS related
+ZCZC W08 50 L09 Weekly Assignments
+ZCZC W08 120 L11 Assignment #01 (Read OSC10 chapter 5)
+ZCZC W08 30 L13 Assignment #03 (Try FinalTerm Problems)
+ZCZC W08 120 L14 Assignment #04 (LFS Chapter 1-4)
+ZCZC W08 90 L15 Assignment #05 (LFS Chapter 5)
