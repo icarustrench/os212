@@ -63,3 +63,9 @@ ZCZC W08 120 L11 Assignment #01 (Read OSC10 chapter 5)
 ZCZC W08 30 L13 Assignment #03 (Try FinalTerm Problems)
 ZCZC W08 120 L14 Assignment #04 (LFS Chapter 1-4)
 ZCZC W08 90 L15 Assignment #05 (LFS Chapter 5)
+ZCZC W09 160 L02 ZOOM related
+ZCZC W09 100 L05 GSGS related
+ZCZC W09 80 L06 references
+ZCZC W09 50 L09 Weekly assignments
+ZCZC W09 300 L14 Assignment #4 (LFS Chapter 6-8)
+

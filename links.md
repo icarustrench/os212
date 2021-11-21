@@ -88,6 +88,9 @@ The tutorial gives a basic information about I/O in OS.
 
 28.[I/O PPT EXPLANATION BAHASA](https://www.youtube.com/watch?v=COakEmVTGvw)<br>
 It basically just explains the power point, but it helps if we missed the explanation in class.
+
+29.[RAID](javatpoint.com/what-is-raid)<br>
+This website gives a complete understanding about redundant array of independent disk aka RAID. The website also gives us the illustration about RAID.
  
 =======
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md
