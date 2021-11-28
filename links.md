@@ -91,6 +91,12 @@ It basically just explains the power point, but it helps if we missed the explan
 
 29.[RAID](javatpoint.com/what-is-raid)<br>
 This website gives a complete understanding about redundant array of independent disk aka RAID. The website also gives us the illustration about RAID.
- 
+
+30.[I/O Systems](tutorialspoint.com/operating_system/os_io_hardware.htm)<br>
+Tutorialspoint gives a full explanation about IO in OS. But it doesn't give that much visualization.
+
+31.[Kernel I/O](geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/)<br>
+It specifically tells us about kernel io. Also doesn't give that much of visualization. 
 =======
+
 >>>>>>> 6040272d9f37dca8cab91f6194712b107fcb58ac:links.md

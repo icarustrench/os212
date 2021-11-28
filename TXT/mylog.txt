@@ -68,4 +68,9 @@ ZCZC W09 100 L05 GSGS related
 ZCZC W09 80 L06 references
 ZCZC W09 50 L09 Weekly assignments
 ZCZC W09 300 L14 Assignment #4 (LFS Chapter 6-8)
+ZCZC W10 80 L02 ZOOM related
+ZCZC W10 50 L05 GSGS related
+ZCZC W10 40 L06 References
+ZCZC W10 1000 L09 Weekly assignments
+ZCZC W10 30 L26 C-language
 
